@@ -1,0 +1,31 @@
+Claude is Anthropic's AI assistant available in several versions.
+
+Claude Opus is the most powerful model designed for complex reasoning,
+deep analysis, and nuanced tasks requiring highest intelligence.
+It has the largest context window and strongest capabilities.
+
+Claude Sonnet balances intelligence and speed perfectly. It is ideal 
+for most production workloads, offering strong performance at lower 
+cost than Opus. Sonnet is recommended for most business applications.
+
+Claude Haiku is the fastest and most compact model. It is best for
+simple tasks, real-time interactions, and high-volume applications
+where speed and cost efficiency matter most.
+
+All Claude models support large context windows, tool use, and vision.
+Claude is trained by Anthropic with a strong focus on safety.
+Model identifiers: claude-opus-4-6, claude-sonnet-4-6, claude-haiku-4-5.
+
+RAG stands for Retrieval Augmented Generation. It combines large 
+language models with external knowledge retrieval systems.
+Vector databases store embeddings for semantic similarity search.
+BM25 is a keyword-based retrieval algorithm used in hybrid search.
+Reranking improves retrieval quality using cross-encoder models.
+
+FastAPI is a modern Python web framework for building APIs quickly.
+It uses Python type hints and generates OpenAPI documentation automatically.
+FastAPI supports async/await natively for high performance applications.
+
+Pinecone is a managed vector database optimized for similarity search.
+It supports serverless deployment and scales automatically with demand.
+Chroma is an open-source local vector database great for development.
